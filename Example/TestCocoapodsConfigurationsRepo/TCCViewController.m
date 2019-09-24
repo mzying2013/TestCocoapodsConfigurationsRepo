@@ -18,6 +18,16 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    UILabel *label = [UILabel new];
+    label.text = @"wa";
+    
+    NSLog(@"%@",label.text);
+    
+    label.text = @"wahaha";
+    
+    NSLog(@"%@",label.text);
+    
 }
 
 - (void)didReceiveMemoryWarning

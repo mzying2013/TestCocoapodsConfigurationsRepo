@@ -1,0 +1,22 @@
+{
+  "name": "TestCocoapodsConfigurationsRepo",
+  "version": "0.1.0",
+  "summary": "A short description of TestCocoapodsConfigurationsRepo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mzying2013/TestCocoapodsConfigurationsRepo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mzying2013": "317590898@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/mzying2013/TestCocoapodsConfigurationsRepo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TestCocoapodsConfigurationsRepo/Classes/**/*"
+}

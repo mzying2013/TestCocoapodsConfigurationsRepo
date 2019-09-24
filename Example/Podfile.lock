@@ -1,0 +1,16 @@
+PODS:
+  - TestCocoapodsConfigurationsRepo (0.1.0)
+
+DEPENDENCIES:
+  - TestCocoapodsConfigurationsRepo (from `../`)
+
+EXTERNAL SOURCES:
+  TestCocoapodsConfigurationsRepo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestCocoapodsConfigurationsRepo: 774324d0fdb4567863350865e7478bae6d005048
+
+PODFILE CHECKSUM: ec6f663153f76e56f587936f69f89b79558e2dde
+
+COCOAPODS: 1.7.5
